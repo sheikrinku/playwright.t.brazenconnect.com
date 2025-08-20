@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="156px" viewBox="0 0 88 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.3%" y="-2.3%" width="113.4%" height="107.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Toolkit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-3">
+            <g id="UPDATE-OCT10/eplus/gold-Copy" filter="url(#filter-1)" transform="translate(1.000000, 1.000000)">
+                <g id="Group">
+                    <polygon id="Rectangle-4" fill="#F9B300" points="0 0 82 0 0 150"></polygon>
+                    <polygon id="Fill-10" fill="#FFFFFF" points="15.186113 12.8753344 14.4847512 18.4904307 32.4832995 18.4904307 33.1897303 12.8808183"></polygon>
+                    <polygon id="Fill-12" fill="#FFFFFF" points="14.4130771 20.9224184 12.8753344 33.1662256 30.8743435 33.1662256 31.5420658 27.852746 20.2714299 27.852746 20.5603615 25.5613736 31.8314581 25.5613736 32.4116254 20.9224184"></polygon>
+                    <polygon id="Fill-14" fill="#FFFFFF" points="42.8823123 16.094168 42.2892422 20.7815646 37.5875373 20.7815646 37.0165864 25.4296597 41.7321157 25.4296597 41.1270644 30.1970304 46.1430457 30.1970304 46.748097 25.4296597 51.487128 25.4296597 52.0580789 20.7815646 47.3061451 20.7815646 47.8982936 16.094168"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
